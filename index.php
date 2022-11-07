@@ -19,7 +19,7 @@
     <div class="contents order-2 order-md-1">
       <div class="container">
         <div class="row align-items-center justify-content-center">
-          <div class="col-md-7 py-5" style="margin-top:-100px">
+          <div class="col-md-7 py-5">
             <h3>Register</h3>
             <div id="message"></div>
             <form method="POST"  id="myform" >
