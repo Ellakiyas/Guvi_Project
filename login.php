@@ -35,7 +35,7 @@
                 <span class="error" id="pass_err"> </span>
               </div>
               <div style="margin-bottom:20px">
-              Don't have an account?<a href="register.php"> Create an acount</a>
+              Don't have an account?<a href="index.php"> Create an acount</a>
               </div>
               <button type="button" id="submitbtn" class="btn btn-block btn-primary  ">LOGIN</button>
             </form>
